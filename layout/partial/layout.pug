@@ -13,3 +13,11 @@ html(lang="zh-CN")
     script(src= url_for('js/jquery.js'))
     script(src= url_for('js/jquery-migrate-1.2.1.min.js'))
     script(src= url_for('js/jquery.appear.js'))
+
+    if theme.gtag
+      script(src= `https://www.googletagmanager.com/gtag/js?id=${theme.gtag.id}`)
+      script.
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '#{theme.gtag.id}');
