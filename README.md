@@ -2,6 +2,7 @@ This repo is forked from https://github.com/Ben02/hexo-theme-Anatole.
 
 ### Updates
 
+- Small style tunning.
 - Support google analytics.
 - Support email.
 
