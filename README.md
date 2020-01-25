@@ -1,3 +1,11 @@
+This repo is forked from https://github.com/Ben02/hexo-theme-Anatole.
+
+### Updates
+
+- Add Google Analytics support.
+
+### Original README.md
+
 This work hexo-theme-Anatole is forked from [farbox-theme-Anatole](https://github.com/hi-caicai/farbox-theme-Anatole). Features: two-column, responsive, clean, light, and comfortable.
 
 此主题系 Farbox 主题 [Anatole](https://github.com/hi-caicai/farbox-theme-Anatole) 在 Hexo 平台上的移植版本。主题特色：双栏、响应式设计、纯净、轻巧、观感舒适。
